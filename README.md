@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RupanshiM
 - 👀 I’m interested in learning new things every day
 - 🌱 I’m currently learning data analytics and machine learning
-- 💞️ I’m looking to collaborate on any personal project, I am ready to hustle and learn
+- 💞️ I’m looking to collaborate on technical writing projects
 - 📫 You can reach out to me on dms or rupanshimaithani@gmail.com
 
 <!---
