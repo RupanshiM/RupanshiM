@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RupanshiM
+- 👋 Hi, I’m @RupanshiM. I am a content developer and create educational content in STEM.
 - 👀 I’m interested in learning new things every day
 - 🌱 I’m currently learning data analytics and machine learning
 - 💞️ I’m looking to collaborate on technical writing projects
